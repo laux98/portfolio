@@ -13,7 +13,7 @@ const SectionContact: React.FC<any> = React.memo((props:any) => {
         </Button>
       </Link>
       <Row style={{ width: "11%" }} />
-      <Link style={{ width: "100%" }} href="mailto:alexis@devleeschauwer.fr">
+      <Link style={{ width: "100%" }} href="mailto:lauxachs@gmail.com">
         <Button style={{ width: "100%", height: "auto", fontWeight: "bold", fontSize: "60px" }} type="primary">
           <MailOutlined />
         </Button>
